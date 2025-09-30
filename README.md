@@ -1,1 +1,1 @@
-this is my wdw project on virtual art gallery
+this is my wdw project on virtual art gallery 
